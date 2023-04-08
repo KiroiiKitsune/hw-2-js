@@ -5,11 +5,11 @@ a = 20;
 alert (a);
 
 // задание 2 
-let year = Number(2007) ;
+let year = 2007 ;
 alert (`года выпуска первого iPhone - ${year}`);
 
 // задание 3
-let nameJS = String (`Брендан Эйх`);
+let nameJS =  (`Брендан Эйх`);
 alert (`Создатель JavaScript - ${nameJS}`);
 
 // задание 4
