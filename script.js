@@ -13,12 +13,9 @@ let nameJS = String (`Брендан Эйх`);
 alert (`Создатель JavaScript - ${nameJS}`);
 
 // задание 4
-let b = (10);
-let c = (2);
-alert (b+c);
-alert (b-c);
-alert (b*c);
-alert (b/c);
+let b = Number (10);
+let c = Number (2);
+alert (` сложение ${b+c}\n вычитание ${b-c}\n умножение ${b*c}\n деление ${b/c}`);
 
 // задание 5
 let result = (2**5);
